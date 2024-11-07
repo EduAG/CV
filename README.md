@@ -1,2 +1,2 @@
 # CV
-CV 
+Results-oriented software developer with 5 years of experience designing and implementing scalable backend solutions using Java, Spring Boot, and microservices architectures. Strong expertise in developing, testing, and deploying applications across cloud platforms like AWS, with a solid foundation in JUnit for unit testing and proficiency in managing relational and NoSQL databases. Experienced in building efficient, maintainable, and robust systems, with a strong understanding of data structures and algorithms. Passionate about continuous learning, currently enhancing skills in front-end for a full-stack perspective.
